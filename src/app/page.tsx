@@ -8,7 +8,7 @@ import React from "react";
 const Home: React.FC = () => {
   return (
     <main className="min-h-screen flex items-center justify-center bg-black">
-      <h1 className="text-white text-3xl" tabIndex={0} aria-label="Hello World">
+      <h1 className="text-white text-3xl" tabIndex={0} aria-label="Goodbye World">
         Hello World
       </h1>
     </main>
